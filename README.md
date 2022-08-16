@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @akashsushi
-- 👀 I’m interested in .Net Core, C# 
+- 👀 I’m interested in .Net Core
 - 📫 akashsushi@gmail.com
